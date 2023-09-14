@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CarServ/static/css/main.28b55e2c.css",
-    "main.js": "/CarServ/static/js/main.c497d76f.js",
+    "main.js": "/CarServ/static/js/main.e49c3c9b.js",
     "static/js/787.bcba5cef.chunk.js": "/CarServ/static/js/787.bcba5cef.chunk.js",
     "static/media/logo.svg": "/CarServ/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CarServ/index.html",
@@ -10,11 +10,11 @@
     "static/media/slick.ttf": "/CarServ/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CarServ/static/media/slick.295183786cd8a1389865.woff",
     "main.28b55e2c.css.map": "/CarServ/static/css/main.28b55e2c.css.map",
-    "main.c497d76f.js.map": "/CarServ/static/js/main.c497d76f.js.map",
+    "main.e49c3c9b.js.map": "/CarServ/static/js/main.e49c3c9b.js.map",
     "787.bcba5cef.chunk.js.map": "/CarServ/static/js/787.bcba5cef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28b55e2c.css",
-    "static/js/main.c497d76f.js"
+    "static/js/main.e49c3c9b.js"
   ]
 }
